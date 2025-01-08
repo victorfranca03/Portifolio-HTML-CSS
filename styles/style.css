@@ -64,7 +64,7 @@ body{
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
 }
 
@@ -118,4 +118,10 @@ body{
     font-family: var(--fonte-secundaria) ;
     font-size: 24px;
     font-weight: 400;
+}
+
+.imgProfile{
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 10px;
 }
